@@ -1,2 +1,3 @@
-# mailchimp-templates
-HTML Templates for MailChimp Newsletters
+# MailChimp Templates
+
+HTML Templates for Shorenstein Center MailChimp Newsletters
